@@ -1,2 +1,5 @@
-def greet_user(name):
-  print(f"สวัสดี , Somsak!")
+def greet_user(Somsak):
+  print(f"สวัสดี ,{Somsak}!")
+greet_user("Somsak")
+def calculate_rectangle_area(width, height):
+  print(
